@@ -1,0 +1,11 @@
+C:\Users\student\Documents\Visual Studio 2017\newProjects\ArtByLmason\ArtByLmason\ArtByLMason.TTR.DATA.EF\bin\Release\ArtByLMason.TTR.DATA.EF.dll.config
+C:\Users\student\Documents\Visual Studio 2017\newProjects\ArtByLmason\ArtByLmason\ArtByLMason.TTR.DATA.EF\bin\Release\ArtByLMason.TTR.DATA.EF.dll
+C:\Users\student\Documents\Visual Studio 2017\newProjects\ArtByLmason\ArtByLmason\ArtByLMason.TTR.DATA.EF\bin\Release\ArtByLMason.TTR.DATA.EF.pdb
+C:\Users\student\Documents\Visual Studio 2017\newProjects\ArtByLmason\ArtByLmason\ArtByLMason.TTR.DATA.EF\bin\Release\EntityFramework.dll
+C:\Users\student\Documents\Visual Studio 2017\newProjects\ArtByLmason\ArtByLmason\ArtByLMason.TTR.DATA.EF\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\student\Documents\Visual Studio 2017\newProjects\ArtByLmason\ArtByLmason\ArtByLMason.TTR.DATA.EF\bin\Release\EntityFramework.xml
+C:\Users\student\Documents\Visual Studio 2017\newProjects\ArtByLmason\ArtByLmason\ArtByLMason.TTR.DATA.EF\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\student\Documents\Visual Studio 2017\newProjects\ArtByLmason\ArtByLmason\ArtByLMason.TTR.DATA.EF\obj\Release\ArtByLMason.TTR.DATA.EF.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\newProjects\ArtByLmason\ArtByLmason\ArtByLMason.TTR.DATA.EF\obj\Release\ArtByLMason.TTR.DATA.EF.csproj.CopyComplete
+C:\Users\student\Documents\Visual Studio 2017\newProjects\ArtByLmason\ArtByLmason\ArtByLMason.TTR.DATA.EF\obj\Release\ArtByLMason.TTR.DATA.EF.dll
+C:\Users\student\Documents\Visual Studio 2017\newProjects\ArtByLmason\ArtByLmason\ArtByLMason.TTR.DATA.EF\obj\Release\ArtByLMason.TTR.DATA.EF.pdb

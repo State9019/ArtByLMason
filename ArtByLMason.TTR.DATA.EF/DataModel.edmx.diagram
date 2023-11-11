@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="2a11c75bf6834dc093d447fdac864988" Name="Diagram1">
+        <EntityTypeShape EntityType="ArtByLMasonModel.Tbl_Cart" Width="1.5" PointX="5.25" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="ArtByLMasonModel.Tbl_CartStatus" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ArtByLMasonModel.Tbl_Category" Width="1.5" PointX="0.75" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="ArtByLMasonModel.Tbl_MemberRole" Width="1.5" PointX="7.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ArtByLMasonModel.Tbl_Members" Width="1.5" PointX="0.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ArtByLMasonModel.Tbl_Product" Width="1.5" PointX="3" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="ArtByLMasonModel.Tbl_Roles" Width="1.5" PointX="7.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ArtByLMasonModel.Tbl_ShipInfo" Width="1.5" PointX="5.25" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ArtByLMasonModel.Tbl_ShippingDetails" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="ArtByLMasonModel.Tbl_SlideImage" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="ArtByLMasonModel.FK__Tbl_Cart__Produc__36B12243" ManuallyRouted="false" />
+        <AssociationConnector Association="ArtByLMasonModel.FK__Tbl_Produ__Categ__286302EC" ManuallyRouted="false" />
+        <AssociationConnector Association="ArtByLMasonModel.FK__Tbl_Shipp__Membe__30F848ED" ManuallyRouted="false" />
+        <AssociationConnector Association="ArtByLMasonModel.FK__Tbl_ShipI__ZipCo__3D5E1FD2" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="ArtByLMasonModel.C__MigrationHistory" Width="1.5" PointX="0.75" PointY="10.75" />
+        <EntityTypeShape EntityType="ArtByLMasonModel.AspNetRole" Width="1.5" PointX="5.75" PointY="11.5" />
+        <EntityTypeShape EntityType="ArtByLMasonModel.AspNetUserClaim" Width="1.5" PointX="10.25" PointY="10" />
+        <EntityTypeShape EntityType="ArtByLMasonModel.AspNetUserLogin" Width="1.5" PointX="10.25" PointY="12.75" />
+        <EntityTypeShape EntityType="ArtByLMasonModel.AspNetUser" Width="1.5" PointX="8" PointY="10.375" />
+        <AssociationConnector Association="ArtByLMasonModel.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" />
+        <AssociationConnector Association="ArtByLMasonModel.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" />
+        <AssociationConnector Association="ArtByLMasonModel.AspNetUserRoles" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
